@@ -16,3 +16,9 @@ screenshot
 <img width="1470" height="618" alt="Screenshot 2026-01-13 at 9 45 36 PM" src="https://github.com/user-attachments/assets/681c4338-d4ff-4f75-9c17-29fbe34d561f" />
 <img width="1470" height="830" alt="Screenshot 2026-01-13 at 9 45 49 PM" src="https://github.com/user-attachments/assets/817fa208-5ab2-4487-be1a-6b43669e16b4" />
 <img width="1470" height="526" alt="Screenshot 2026-01-13 at 9 46 00 PM" src="https://github.com/user-attachments/assets/36c0d185-da6d-4218-a92a-f9c415dea8be" />
+
+21jan html and css
+
+
+<img width="1470" height="803" alt="Screenshot 2026-01-21 at 8 23 19 PM" src="https://github.com/user-attachments/assets/1f742c8a-6f3e-4ac8-a3ae-5103a988fd2e" />
+
